@@ -281,8 +281,13 @@ body {
 }
 
 #work {
+  margin: 0vh 0px;
+  padding: 0vh 0px !important;
+}
+
+#research {
   margin: 2vh 0px;
-  padding: 4vh 0px !important;
+  padding: 2vh 0px !important;
 }
 
 #forks {
@@ -297,8 +302,8 @@ body {
 
 .introduction section {
   width: 100%;
-  padding: 2.5vh 5%;
-  margin: 0vh 0px;
+  padding: 1vh 1%;
+  margin: 1vh 0px;
   display: inline-block;
   border-radius: 5px;
   color: var(--text-color);
